@@ -5,5 +5,4 @@ Jenkins Public Repository
 ```
 javac HelloWorld.java
 java HelloWorld
-
 ```
